@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "access-control-system-f99c7": {
+      "hosting": {
+        "access_control_system": [
+          "access-control-system-f99c7"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "access-control-system-f99c7"
+  }
+}

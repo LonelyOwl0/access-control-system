@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "access_control_system",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
